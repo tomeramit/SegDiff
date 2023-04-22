@@ -1,0 +1,26 @@
+name: segdiff
+channels:
+  - anaconda
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.12
+  - pip=21.2.4
+  - pytorch=1.9.0
+  - torchvision=0.10.0
+  - cudatoolkit=11.1
+  - mpi4py=3.1.2
+  - tqdm=4.62.3
+  - scikit-learn=0.24.2
+  - scikit-image=0.18.3
+  - matplotlib=3.4.3
+  - seaborn=0.11.2
+  - pip:
+    - opencv-python==4.5.1.48
+    - blobfile==1.2.3
+    - pycocotools==2.0.2
+    - gitpython==3.1.24
+    - kornia==0.5.11
+    - h5py==3.4.0
+    - imagecodecs==2021.11.20
