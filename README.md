@@ -1,6 +1,6 @@
-This is the official repository of the paper "SegDiff: Image Segmentation with Diffusion Probabilistic Models" (https://arxiv.org/abs/2112.00390)
+This is the official repository of the paper [SegDiff: Image Segmentation with Diffusion Probabilistic Models](https://arxiv.org/abs/2112.00390)
 
-The code is based on https://github.com/openai/improved-diffusion
+The code is based on [Improved Denoising Diffusion Probabilistic Models.](https://github.com/openai/improved-diffusion)
 
 ## Installation
 ### Conda environment
